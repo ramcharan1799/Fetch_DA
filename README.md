@@ -28,6 +28,7 @@ This ER model is essential for understanding how these entities interact, allowi
 It guides the structuring of our code and ensures that analyses accurately reflect user behavior, product sales, and transaction details, thus helping to extract meaningful insights from the dataset.
 
 **PART 1: DATA EXPLORATION**
+
 **1)  Are there any data quality issues present?**
 
 The analysis of the three datasets has revealed various data quality issues across all tables. 
@@ -217,6 +218,3 @@ Could you provide any documentation or insights to help us address these issues?
 Thanks and regards,
 Ram Charan Jangam
 
-
-
-![image](https://github.com/user-attachments/assets/189a9ed4-b1e8-4367-83b9-7d6fe5f0680f)
